@@ -42,6 +42,12 @@ with open("text.txt",'r') as fp:
     print("No of words in the file",count)
 ```
 ### OUTPUT:
+## .py page
+![image](https://user-images.githubusercontent.com/94164665/153126466-62d2d70f-467b-4108-8f71-c858e74f31a2.png)
+## .txt page
+![image](https://user-images.githubusercontent.com/94164665/153126566-a4524b01-f99b-467b-9c3b-e2cb4f653fd2.png)
+
+
 
 
 ## RESULT:
